@@ -4,8 +4,6 @@ Here you can find:
 * Guarda logos, in .png
 * colors and fonts, using at Guarda
 
-![Guarda Media KIT](guarda_media_kit.png?raw=true "Guarda Media KIT")
-
 ## Guarda logos
 Download Guarda logos [here](https://github.com/guardaco/media-kit/blob/master/guarda_logo_kit.zip).
 
